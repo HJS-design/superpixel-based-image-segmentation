@@ -1,0 +1,1 @@
+This is our main C++ code. You can directly compile them using Cmake based on our CMakeLists.txt. For the c++ package, I recommend using [vcpkg](https://vcpkg.io/en/). 
